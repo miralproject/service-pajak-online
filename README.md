@@ -31,12 +31,13 @@
 ```bash
 $ npm install
 ```
-## .env
-$ PORT=7000
 
 ## Running the app
 
 ```bash
+# .env
+$ PORT=7000
+
 # development
 $ npm run start
 
